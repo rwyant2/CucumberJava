@@ -1,10 +1,5 @@
 #CucumberJava<br>
+30Jan2019<br>
 <br>
-25Dec2018<br>
-I've got the groundwork laid for this. Currently, I'm having issues debugging back-end code in Eclipse and my be switching to IntelliJ to develop this further.<br>
+I was using this in Eclipse with Gradle and debugging code was not working. After spinning my wheels for a month, I move on to IntelliJ using Maven. I can explore migration later. After I get the Cucumber up to speed with where I was at here, this repo is going away.<br>
 <br>
-Merry Christmas<br>
-Richard<br>
-<br>
-<br>
-Edit: I totally forgot to enter the date as I normally do and uploaded this in Christmas instead of the day after because I'm totally on top of my game. Trust me. Please? :-O<br>
